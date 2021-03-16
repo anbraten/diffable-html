@@ -5,6 +5,7 @@
   "main": "dist/diffable-html.js",
   "author": "Raymond RUTJES <raymond.rutjes@gmail.com> (https://github.com/rayrutjes/)",
   "license": "MIT",
+  "types": "types.d.ts",
   "scripts": {
     "build": "rollup --config",
     "build:watch": "rollup --config --watch",
